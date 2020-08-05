@@ -1,4 +1,4 @@
-#GeneLab SOP for sample aliquoting, labeling and storage 
+# GeneLab SOP for sample aliquoting, labeling and storage 
 
 Document No.:	GL-SOP-1.1
 Version:	1.0
