@@ -7,7 +7,7 @@ The NASA GeneLab Sample Processing Laboratory generates open science data from s
 
 
 ## Tissue Storage and Cutting ##
-#### [1.1 Sample aliquoting, labeling and storage](./SOP_txt/1.1_sample_archiving_v1.0.md) ####
+#### [1.1 Sample aliquoting, labeling and storage](GeneLab-sampleProcessing/SOP_text/1.1_sample_archiving_v1.0.md) ####
 This SOP describes in detail how GeneLab SPL handles sample storage, aliquoting, labeling and the consensus acronyms we use.
 
 1.2 Frozen tissue cutting
