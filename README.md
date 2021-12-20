@@ -50,6 +50,9 @@ As described in detail on GeneLab.nasa.gov webpage titled “GeneLab Sequencing 
 #### [5.3 Illumina Nextera DNA Flex Manual Library Preparation](https://github.com/nasa/GeneLab-sampleProcessing/blob/master/SOP_text/5.3_nextera_flex_manual_v1.0.md) ####
 This SOP follows the Illumina Nextera DNA Flex Library Prep Guide, Doc# 1000000025416 v07. It is strongly advised to read the guide in full before using this SOP.
 
+#### [5.4 QIAseq UPX 3' Transcriptome Librray Prep](https://github.com/nasa/GeneLab-sampleProcessing/blob/master/SOP_text/5.4_UPX_lib_prep_v1.0.md) ####
+This procedure follows the QIAseq UPX 3' Transcriptome Handbook, HB-2485-007, to generate RNA-seq libraries from low input purified RNA. It is strongly advised to read this document in full before using the SOP.
+
 ## Library QC and Troubleshooting ##
 #### [6.1 qPCR quantification of Illumina sequencing libraries](https://github.com/nasa/GeneLab-sampleProcessing/blob/master/SOP_text/6.1_qiagility_lib_quant_v1.0.md) ####
 This SOP describes the steps for qPCR quantification of Illumina Sequencing libraries using a QIAgility.
@@ -68,6 +71,9 @@ This SOP describes the steps to pool, normalize, and check the quality of TruSeq
 
 #### [6.6 Manual Illumina TruSeq total RNA (Ribo Gold) library clean-up from adapter dimers](https://github.com/nasa/GeneLab-sampleProcessing/blob/master/SOP_text/6.6_library_manual_cleanup.md) ####
 This SOP describes the steps for manually cleaning Illumina TruSeq Total RNA libraries of adapter dimers.
+
+#### [6.7 Sequencing library quantification using QIAseq Library Quant Assay](https://github.com/nasa/GeneLab-sampleProcessing/blob/master/SOP_text/6.7_QIAseq_Library_Quant_Assay_v1.0.md) ####
+This SOP follows the QIAseq Library Quant Assay Handbook, HB 1384-004, to quantitate Next Generation Sequencing libraries. It is strongly advised to read this document in full before using the SOP.
 
 ## Sequencing Parameters ##
 #### [7.1 Setting up NovaSeq 6000 and iSeq 100 sequencers](https://github.com/nasa/GeneLab-sampleProcessing/blob/master/SOP_text/7.1_sequencer_setup_v1.0.md) ####
