@@ -30,6 +30,12 @@ This SOP describes the steps required to extract RNA from mammalian tissue using
 #### [3.3 Feces DNA Extraction using Maxwell RSC instrument with Purefood GMO kit](https://github.com/nasa/GeneLab-sampleProcessing/blob/master/SOP_text/3.3_feces_dna_extraction_v1.0.md) ####
 This SOP describes the steps required to isolate DNA from mouse fecal pellets using Maxwell RSC instrument with Purefood GMO kit.
 
+#### [3.4 DNA Isolation Using FastDNA SPIN Kit for Soil](https://github.com/nasa/GeneLab-sampleProcessing/blob/master/SOP_text/3.4_fastDNA_SPIN_kit_for_soil.md) ####
+This SOP describes the steps required to isolate genomic DNA from soil and other environmental samples using the FastDNA SPIN kit.
+
+#### [3.5 RNA Isolation From Blood Using RiboPure RNA Purification Kit](https://github.com/nasa/GeneLab-sampleProcessing/blob/master/SOP_text/3.5_RNA_isolation_from_blood_using_RiboPure_RNA_Purification_kit.md) ####
+This SOP describes the steps required to extract RNA from mammalian whole blood samples of 300-500uL, in RNAlater or freshly collected. The extraction kit used in this procedure is RiboPure Blood Kit (Thermo Fisher Scientific). In addition, in this procedure we describe steps for depleting the isolated RNA from residual DNA using DNase I. This step is required for RNA that will be used for sequencing.
+
 ## DNA/RNA QC and Troubleshooting ##
 #### [4.1 RNA/DNA/miRNA/cDNA quantification using Qubit Fluorimeter](https://github.com/nasa/GeneLab-sampleProcessing/blob/master/SOP_text/4.1_dna_rna_quant_qubit_v1.0.md) ####
 This SOP describes the steps required to perform quantification of RNA/DNA or cDNA using the Invitrogen (Thermo Fisher Scientific) fluorimeter – Qubit and the Qubit kits. Flourimetric methods are advantageous over spectrophotometric methods since they are more precise and specific to the molecule being measured.
