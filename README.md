@@ -2,6 +2,9 @@
 
 # GeneLab-sampleProcessing
 
+### NOTICE
+The GeneLab Sample Procesing Lab SOPs listed on this repository will no longer be maintained. The SPL is being decommissioned, the repository will remain availble but no updates will be made, as such all documentation should be considered out-dated. 
+
 ### About
 The NASA GeneLab Sample Processing Laboratory generates open science data from spaceflight missions. Over the years, it has developed a set of standard operating procedures (SOPs) that it utilizes to generate high-quality standardized data. This repository houses these SOPs.
 
